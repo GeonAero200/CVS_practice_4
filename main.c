@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 int main (int argc, char * argv [])
+=======
+void main ()
+>>>>>>> master
 
 {
 
